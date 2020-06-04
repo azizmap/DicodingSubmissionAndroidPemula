@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TopDestination</string>
+    <string name="desti_name">Tempat</string>
+    <string name="detail">detail</string>
+    <string name="favorite">favorite</string>
+</resources>
